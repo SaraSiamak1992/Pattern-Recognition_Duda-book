@@ -1,4 +1,4 @@
-# Pattern Recognation_Duda book
+# Pattern Recognation
 
 
 This pdf is created by Dr. Yazdi at Shiraz University in Iran.
