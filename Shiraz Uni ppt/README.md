@@ -3,7 +3,7 @@
 
 --------------------------------
 
-This pdf is created by Dr. Yazdi at Shiraz University in Iran.
+These pdfs are created by Dr. Yazdi at Shiraz University in Iran.
 
 * Dr. Yazdi website address: http://sess.shirazu.ac.ir/sess/fresearch/FacultyCV.aspx?OP=Code=2010;
 
